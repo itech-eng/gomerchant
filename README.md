@@ -5,7 +5,7 @@ Gomerchant is an abstracted payment interface for Golang, it provides unified AP
 ## Usage
 
 ```go
-import "github.com/qor/gomerchant/gateways/stripe"
+import "github.com/itech-eng/gomerchant/gateways/stripe"
 
 func main() {
   Stripe := stripe.New(&stripe.Config{
@@ -14,4 +14,4 @@ func main() {
 }
 ```
 
-[![GoDoc](https://godoc.org/github.com/golang/gddo?status.svg)](http://godoc.org/github.com/qor/gomerchant)
+[![GoDoc](https://godoc.org/github.com/golang/gddo?status.svg)](http://godoc.org/github.com/itech-eng/gomerchant)

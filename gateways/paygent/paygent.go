@@ -19,7 +19,7 @@ import (
 	"golang.org/x/text/encoding/japanese"
 	"golang.org/x/text/transform"
 
-	"github.com/qor/gomerchant"
+	"github.com/itech-eng/gomerchant"
 )
 
 type Paygent struct {

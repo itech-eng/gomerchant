@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/qor/gomerchant"
+	"github.com/itech-eng/gomerchant"
 )
 
 var PaygentServerTimeZone, _ = time.LoadLocation("Asia/Tokyo")

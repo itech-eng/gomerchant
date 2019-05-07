@@ -7,9 +7,9 @@ import (
 	"time"
 
 	"github.com/jinzhu/configor"
-	"github.com/qor/gomerchant"
-	"github.com/qor/gomerchant/gateways/paygent"
-	"github.com/qor/gomerchant/tests"
+	"github.com/itech-eng/gomerchant"
+	"github.com/itech-eng/gomerchant/gateways/paygent"
+	"github.com/itech-eng/gomerchant/tests"
 )
 
 var Paygent *paygent.Paygent

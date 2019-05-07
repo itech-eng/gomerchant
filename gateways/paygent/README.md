@@ -6,7 +6,7 @@ Paygent Golang SDK
 
 ```go
 // Initalize
-import "github.com/qor/gomerchant/gateways/paygent"
+import "github.com/itech-eng/gomerchant/gateways/paygent"
 Paygent = paygent.New(&paygent.Config{
   MerchantID:      "PaygentMerchantID",
   ConnectID:       "PaygentConnectID",
